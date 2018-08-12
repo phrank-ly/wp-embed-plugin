@@ -4,7 +4,7 @@
  * Description: Embed Phrankly on your web page.
  * Version: 1.0
  * Author: Phrankly
- * Author URI: http://phrankly.com
+ * Author URI: http://www.phrankly.com
  */
 
 function phrankly_embed($atts = []){
