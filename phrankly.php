@@ -6,15 +6,14 @@
  * Author: Phrankly
  * Author URI: https://www.phrankly.com
  */
-
 function phrankly_embed($atts = []){
-	$handle = $atts[handle];
-	if(empty($handle)) {
-		echo '<p>You must provide a valid Phrankly handle in the form of: [phrankly handle="YourPhranklyHandle"]</p>';
-	} else {
-		$url = 'https://phrankly.com/embed/responsive/' . $handle;
-		echo '<iframe src="' . $url . '" style="border: 2px solid rgb(204, 204, 204); height: 400px; width: 400px;"/>';
-	}
+    $handle = $atts['handle'];
+    if(empty($handle)) {
+        echo '<p>You must provide a valid Phrankly handle in the form of: [phrankly handle="YourPhranklyHandle"]</p>';
+    } else {
+        $url = 'https://dev.phrankly.com/embed/responsive/' . $handle;
+        echo '<iframe src="' . $url . '" style="border: 2px solid rgb(204, 204, 204); height: 400px; width: 400px;"></iframe>';
+    }
 }
 add_shortcode('phrankly', 'phrankly_embed');
 ?>
