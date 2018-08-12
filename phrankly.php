@@ -15,7 +15,7 @@ function phrankly_embed($atts = []){
 		echo '<p>You must provide a valid Phrankly handle in the form of: [phrankly handle="YourPhranklyHandle"]</p>';
 	} else {
 		$url = 'https://dev.phrankly.com/embed/responsive/' . $handle;
-		echo '<iframe src="' . $url . '" style="border: 2px solid rgb(204, 204, 204); height: 400px; width: 400px;"></iframe>';
+		echo '<div style="position: relative; overflow: hidden; padding-bottom: 100%;"><iframe src="' . $url . '" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe></div>';
 	}
 
 	$output = ob_get_clean();
