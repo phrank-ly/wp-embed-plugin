@@ -9,7 +9,7 @@
 function phrankly_embed($atts = []){
 	$handle = $atts['handle'];
 
-  ob_start();
+  	ob_start();
 
 	if(empty($handle)) {
 		echo '<p>You must provide a valid Phrankly handle in the form of: [phrankly handle="YourPhranklyHandle"]</p>';
@@ -18,9 +18,8 @@ function phrankly_embed($atts = []){
 		echo '<iframe src="' . $url . '" style="border: 2px solid rgb(204, 204, 204); height: 400px; width: 400px;"></iframe>';
 	}
 
-  $output = ob_get_clean();
-  //print $output; // debug
-  return $output;
+	$output = ob_get_clean();
+	return $output;
 }
 add_shortcode('phrankly', 'phrankly_embed');
 ?>
