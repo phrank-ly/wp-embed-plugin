@@ -1,7 +1,7 @@
 === Phrankly ===
 Tags: restaurant, appetizer, food, cafe, menu, dining, drink
 
-The Phrankly WordPress plugin allows Phrankly users who subscribe to the Champion Package to easily embed their network into their web page.
+The Phrankly WordPress plugin allows Phrankly users to easily embed their network into their web page.
 
 == Description ==
 The Phrankly WordPress plugin allows Phrankly users to easily embed their network into their web page.  Once set up, customers who visit your page will have a transparent view into exactly what you're made of.
