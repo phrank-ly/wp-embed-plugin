@@ -1,7 +1,7 @@
 <?php
 /*
- * Plugin Name: Phrankly
- * Description: Embed Phrankly on your web page.
+ * Plugin Name: Phrankly Food and Drink Sourcing
+ * Description: Embed Phrankly on your web page
  * Version: 1.0
  * Author: Phrankly
  * Author URI: https://www.phrankly.com
