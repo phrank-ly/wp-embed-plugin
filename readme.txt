@@ -4,7 +4,7 @@ Tags: store map, restaurant, source map, food, drink
 Allows you to easily embed your restaurant or store's food and drink sources.
 
 == Description ==
-The Phrankly WordPress plugin allows Phrankly customers to easily embed their network into their wordpress page.
+Allows you to easily embed your restaurant or store's food and drink sources.
 
 Today's consumers are increasingly conscientious about where their food comes from. Use Phrankly today and start building trust through transparency.
 
