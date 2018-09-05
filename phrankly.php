@@ -13,7 +13,7 @@ function phrankly_embed($atts = []){
 
 	if(empty($handle)) {
 		echo '<p>You must provide a valid Phrankly handle in the form of: [phrankly handle="YourPhranklyHandle"]</p>';
-		echo '<p>Please read the Installation instructions for more information.</p>
+		echo '<p>Please read the Installation instructions for more information.</p>'
 	} else {
 		$url = 'https://dev.phrankly.com/embed/responsive/' . $handle;
 		echo '<div style="position: relative; overflow: hidden; padding-bottom: 100%;"><iframe src="' . $url . '" style="position: absolute;top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe></div>';
