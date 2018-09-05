@@ -10,7 +10,7 @@ Allows you to easily embed your restaurant or store's food and drink sources or 
 Give your customers an easy way to see what you're made of.
 Consumers are becoming more conscientious about where their food comes. Don't make them read between the lines. Phrankly lets you advertise your sources, for free, on an open, easily discoverable, and searchable platform. Your network helps us connect you to new and loyal customers, looking for exactly what you're serving.
 
-Use Phrankly today and start building trust through transparency. 
+Use Phrankly today and start building trust through transparency.
 
 ### Restaurants & Retailers
 4 out of 5 consumers look for food using local, trustworthy ingredients. Use our tools to help spread the word, making your brand synonymous with local.
@@ -21,7 +21,7 @@ Consumers are looking for your farmed and crafted goods. Use our tools to showca
 For more information on subscribing to Phrankly, visit https://www.phrankly.com/getstarted
 
 == Installation ==
-Setting up the Phrankly Wordpress plugin is easily accomplished in a few short steps:
+Setting up the Phrankly Wordpress plugin is easy:
 
 1. Sign up for Phrankly at https://www.phrankly.com/getstarted
   i. Follow the directions to set up your page and update your information, including your sourcing or distribution.
