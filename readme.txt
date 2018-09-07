@@ -1,7 +1,8 @@
 === Phrankly Food & Drink Sourcing ===
 Tags: store map, restaurant, source map, food, drink
+Contributors: bvulaj
 Tested up to: 4.9.8
-Stable tag: trunk
+Stable tag: 1.1
 
 Allows you to easily embed your restaurant or store's food and drink sources or where your goods are available.
 
