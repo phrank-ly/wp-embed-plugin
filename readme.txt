@@ -1,13 +1,13 @@
 === Phrankly Food & Drink Sourcing ===
-Tags: store map, restaurant, source map, food, drink
+Tags: store map, store, locator, restaurant, source map, food, drink
 Contributors: bvulaj
 Tested up to: 4.9.8
 Stable tag: 1.1
 
-Allows you to easily embed your restaurant or store's food and drink sources or where your goods are available.
+A new type of store locator. Allows you to easily embed your restaurant or store's food and drink sources or where your goods are available.
 
 == Description ==
-Allows you to easily embed your restaurant or store's food and drink sources or where your goods are available.
+Phrankly provides a new type of store locator. It allows you to easily embed your restaurant or store's food and drink sources or where your goods are available.
 
 Give your customers an easy way to see what you're made of.
 Consumers are becoming more conscientious about where their food comes. Don't make them read between the lines. Phrankly lets you advertise your sources, for free, on an open, easily discoverable, and searchable platform. Your network helps us connect you to new and loyal customers, looking for exactly what you're serving.
@@ -37,3 +37,5 @@ Setting up the Phrankly Wordpress plugin is easy:
 4. Place the Phrankly shortcode in the desired location on your page.  This will look like [phrankly handle=yourHandle], where "yourHandle" is your place's handle.
   i. Your place's handle can be found on its management page at https://www.phrankly.com, or in your page's URL.
 5. Contact us through our website's chat, or at info@phrankly.com to enable embedding.
+
+Non-worpdress verions are available. Map and other display options coming soon!
