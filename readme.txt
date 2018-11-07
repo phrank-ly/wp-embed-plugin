@@ -2,7 +2,7 @@
 Tags: store map, store, locator, restaurant, source map, food, drink
 Contributors: bvulaj
 Tested up to: 4.9.8
-Stable tag: 1.1
+Stable tag: 1.2
 
 A new type of store locator. Allows you to easily embed your restaurant or store's food and drink sources or where your goods are available.
 
@@ -34,8 +34,8 @@ Setting up the Phrankly Wordpress plugin is easy:
   i. Follow the directions to set up your page and update your information, including your sourcing or distribution.
 2. Install the plugin via the WordPress Plugin Directory, or by uploading the plugin files directly to your server's `/wp-content/plugins/` directory.
 3. Activate the plugin through the "Plugins" menu in WordPress.
-4. Place the Phrankly shortcode in the desired location on your page.  This will look like [phrankly handle=yourHandle], where "yourHandle" is your place's handle.
+4. Place the Phrankly shortcode in the desired location on your page.  This will look like [phrankly-list handle=yourHandle] or [phrankly-map handle=yourHandle], where "yourHandle" is your place's handle.
   i. Your place's handle can be found on its management page at https://www.phrankly.com, or in your page's URL.
 5. Contact us through our website's chat, or at info@phrankly.com to enable embedding.
 
-Non-worpdress verions are available. Map and other display options coming soon!
+Non-worpdress verions are available on the Phrankly website!
