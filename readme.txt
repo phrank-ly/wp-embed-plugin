@@ -7,7 +7,7 @@ Stable tag: 1.2
 A new type of store locator. Allows you to easily embed your restaurant or store's food and drink sources or where your goods are available.
 
 == Description ==
-Phrankly provides a new type of store locator. It allows you to easily embed your restaurant or store's food and drink sources or where your goods are available.
+Phrankly provides a new type of store locator that makes it easier for customers to find you. It allows you to easily embed your restaurant or store's food and drink sources or where your goods are available.
 
 Give your customers an easy way to see what you're made of.
 Consumers are becoming more conscientious about where their food comes. Don't make them read between the lines. Phrankly lets you advertise your sources, for free, on an open, easily discoverable, and searchable platform. Your network helps us connect you to new and loyal customers, looking for exactly what you're serving.
